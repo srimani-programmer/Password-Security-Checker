@@ -1,0 +1,47 @@
+.mainview{
+    background-color: #487EB0;
+    display: block;
+}
+
+.mainheading{
+    text-align: center;
+    font-family: 'Bungee Inline', cursive;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 55px;
+}
+
+.password{
+    font-size: 3em;
+    line-height: 1.5em;
+    border: 1px solid #fff;
+    border-top-color: rgb(255, 255, 255);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: rgb(255, 255, 255);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    background: #fff;
+    background: rgba(255,255,255,.6);
+    border-left: 0;
+    border-right: 0;
+    box-sizing: border-box;
+    display: block;
+    height: 1.5em;
+    margin-top: 1em;
+    padding: 0;
+    text-align: center;
+    text-transform: none;
+    width: 100%;
+}
